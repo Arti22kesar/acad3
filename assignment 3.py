@@ -1,9 +1,11 @@
 #Ques1.
 
-a=1,2,3
-l=[]
-l.append(a)
-print(l)
+list=[]
+name1=input("enter the input for the list")
+list.append(name1)
+name2=input("enter the input for the list")
+list.append(name2)
+print("the list is",list)
 
 
 #Ques2.
